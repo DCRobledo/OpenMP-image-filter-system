@@ -1,0 +1,4 @@
+.vscode
+*.o
+image-seq
+image-par
